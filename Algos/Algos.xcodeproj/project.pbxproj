@@ -17,6 +17,7 @@
 		E64137FB2792A86E0053B8E0 /* PallindromePartioning.swift in Sources */ = {isa = PBXBuildFile; fileRef = E64137FA2792A86E0053B8E0 /* PallindromePartioning.swift */; };
 		E686CC6A27D4945F007DD243 /* WaterLogging.swift in Sources */ = {isa = PBXBuildFile; fileRef = E686CC6927D4945F007DD243 /* WaterLogging.swift */; };
 		E6B99F7F278F288A00F7875B /* StringSequence.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6B99F7E278F288A00F7875B /* StringSequence.swift */; };
+		E6E897332905253B001294FF /* LongestIncreasingSeqV2.swift in Sources */ = {isa = PBXBuildFile; fileRef = E6E897322905253B001294FF /* LongestIncreasingSeqV2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +55,7 @@
 		E64137FA2792A86E0053B8E0 /* PallindromePartioning.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PallindromePartioning.swift; sourceTree = "<group>"; };
 		E686CC6927D4945F007DD243 /* WaterLogging.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WaterLogging.swift; sourceTree = "<group>"; };
 		E6B99F7E278F288A00F7875B /* StringSequence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringSequence.swift; sourceTree = "<group>"; };
+		E6E897322905253B001294FF /* LongestIncreasingSeqV2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LongestIncreasingSeqV2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -104,6 +106,7 @@
 		E62D0A6D277CE0DF0091AF89 /* Algos */ = {
 			isa = PBXGroup;
 			children = (
+				E6E897322905253B001294FF /* LongestIncreasingSeqV2.swift */,
 				E62EA8EC27C0160F00F092D0 /* MergingList.swift */,
 				E62D0A6E277CE0DF0091AF89 /* AppDelegate.swift */,
 				E62D0A70277CE0E00091AF89 /* Assets.xcassets */,
@@ -267,6 +270,7 @@
 			files = (
 				E64137FB2792A86E0053B8E0 /* PallindromePartioning.swift in Sources */,
 				E686CC6A27D4945F007DD243 /* WaterLogging.swift in Sources */,
+				E6E897332905253B001294FF /* LongestIncreasingSeqV2.swift in Sources */,
 				E6B99F7F278F288A00F7875B /* StringSequence.swift in Sources */,
 				E62D0A6F277CE0DF0091AF89 /* AppDelegate.swift in Sources */,
 				E62EA8ED27C0160F00F092D0 /* MergingList.swift in Sources */,
