@@ -21,8 +21,8 @@ class AppDelegate: NSObject, NSApplicationDelegate {
       // testNumberOfOccurances()
        //  testPallindrome()
         //testMerge()
-        //testTotalWaterLogged()
-        LongestIncreasingSeqV2.test()
+        testTotalWaterLogged()
+        //LongestIncreasingSeqV2.test()
     }
 
     func applicationWillTerminate(_ aNotification: Notification) {
