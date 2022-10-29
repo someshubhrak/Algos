@@ -27,7 +27,7 @@ func totalWaterLogged(segments: [Int]) -> Int {
     var totalWaterLogged: Int = 0
     /// This always contain  10 , 8, 4, 3,...
     /// If 5 is added, 10 , 8, 4, 3, 5, downhill stack it is reduced to 10,8,5
-    /// the curve created by 8,4,3,5 is reduced to 5
+    /// the curve created by 8,4,3,5 is reduced to 8, 5
     var downHillStack: [Segment] = []
     var index: Int = 0
     
